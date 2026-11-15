@@ -1,0 +1,10 @@
+{
+  "name": "QR Studio",
+  "short_name": "QR Studio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100d1e",
+  "theme_color": "#100d1e",
+  "description": "Create, customize, scan and share QR codes.",
+  "icons": []
+}
